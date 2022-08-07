@@ -1,0 +1,4 @@
+#Wed Jun 01 14:37:19 EET 2022
+base.0=C\:\\Users\\Marioom\\OneDrive\\Desktop\\Robot_car_controller-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
